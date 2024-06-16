@@ -1,0 +1,43 @@
+G:\TOOL\ABC2Unicode\ABC2Unicode\bin\Debug\ABC2Unicode.exe
+G:\TOOL\ABC2Unicode\ABC2Unicode\bin\Debug\ABC2Unicode.pdb
+G:\TOOL\ABC2Unicode\ABC2Unicode\bin\Debug\ABC2Unicode.xml
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.vbprojResolveAssemblyReference.cache
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.Form1.resources
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.Resources.resources
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.vbproj.GenerateResource.Cache
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.exe
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.xml
+G:\TOOL\ABC2Unicode\ABC2Unicode\obj\Debug\ABC2Unicode.pdb
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.exe
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.xml
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.pdb
+G:\TOOL\ABC2Unicode\bin\Debug\ABC2Unicode.exe
+G:\TOOL\ABC2Unicode\bin\Debug\ABC2Unicode.pdb
+G:\TOOL\ABC2Unicode\bin\Debug\ABC2Unicode.xml
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.vbprojResolveAssemblyReference.cache
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.Form1.resources
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.Resources.resources
+G:\TOOL\ABC2Unicode\obj\Debug\ABC2Unicode.vbproj.GenerateResource.Cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\bin\Debug\ABC2Unicode.exe.config
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\bin\Debug\ABC2Unicode.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\bin\Debug\ABC2Unicode.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\bin\Debug\ABC2Unicode.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.Form1.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\ABC2Unicode\obj\Debug\ABC2Unicode.pdb
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\bin\Debug\ABC2Unicode.exe.config
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\bin\Debug\ABC2Unicode.exe
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\bin\Debug\ABC2Unicode.pdb
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\bin\Debug\ABC2Unicode.xml
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.Form1.resources
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.Resources.resources
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.exe
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.xml
+D:\Source VBNet_C#\GitHub\ABC2Unicode\src\obj\Debug\ABC2Unicode.pdb
